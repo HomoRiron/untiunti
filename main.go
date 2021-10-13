@@ -24,8 +24,8 @@ type UserInfo struct {
 }
 
 func Login() *UserInfo {
-	userName := "9ee7k5y"
-	passWord := "Xamakush420"
+	userName := "unti"
+	passWord := "buri"
 	config := &clientcredentials.Config{
 		ClientID:     consumerKey,
 		ClientSecret: consumerSecret,
